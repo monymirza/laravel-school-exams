@@ -1,5 +1,5 @@
 
-# 🎓 Laravel Exam System
+# 🎓 Laravel (Vue.js) Exam System
 
 This Laravel project is an online examination system designed for educational institutions. It allows **Teachers** to create exams and **Students** to take them. Scores are automatically calculated based on the answers to each question.
 
@@ -48,8 +48,7 @@ This Laravel project is an online examination system designed for educational in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/laravel-exam-system.git
-   cd laravel-exam-system
+   cd laravel-school-exams
    ```
 
 2. Install dependencies:
@@ -136,4 +135,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - Laravel Documentation
 - Bootstrap / Tailwind CSS
-- Vue.js / Axios (if used)
+- Vue.js
